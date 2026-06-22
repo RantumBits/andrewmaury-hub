@@ -1,0 +1,13 @@
+{
+  "name": "andrewmaury-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Source for andrewmaury.com — built with Tailwind CSS",
+  "scripts": {
+    "build:css": "tailwindcss -i ./src/input.css -o ./assets/app.css --minify",
+    "watch:css": "tailwindcss -i ./src/input.css -o ./assets/app.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}
