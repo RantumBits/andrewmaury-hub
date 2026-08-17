@@ -13,8 +13,8 @@
     <!-- Open Graph / SEO -->
     <meta property="og:type" content="website">
     <meta property="og:title" content="Andrew Maury | Senior Data Science & ML · Founder of Rantum">
-    <meta name="description" content="Andrew Maury is a senior data scientist & ML engineer and founder of Rantum, based in the San Francisco Bay Area. He turns messy, fragmented, and adversarial data into models, APIs, and products that ship. ex-0x Labs.">
-    <meta property="og:description" content="Andrew Maury is a senior data scientist & ML engineer and founder of Rantum, based in the San Francisco Bay Area. He turns messy, fragmented, and adversarial data into models, APIs, and products that ship. ex-0x Labs.">
+    <meta name="description" content="Andrew Maury is a senior data scientist & ML engineer and founder of Rantum, based in San Mateo, CA. He turns messy, fragmented, and adversarial data into models, APIs, and products that ship. ex-0x Labs.">
+    <meta property="og:description" content="Andrew Maury is a senior data scientist & ML engineer and founder of Rantum, based in San Mateo, CA. He turns messy, fragmented, and adversarial data into models, APIs, and products that ship. ex-0x Labs.">
     <meta property="og:image" content="https://andrewmaury.com/og-image.png">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
@@ -40,6 +40,7 @@
     {
       "@context": "https://schema.org",
       "@type": "Person",
+      "@id": "https://andrewmaury.com/#person",
       "name": "Andrew Maury",
       "url": "https://andrewmaury.com",
       "jobTitle": "Senior Data Scientist & ML Engineer; Founder of Rantum",
@@ -53,6 +54,17 @@
         "https://addressintel.co",
         "https://orcid.org/0009-0003-6303-286X"
       ]
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Book",
+      "name": "The DeFi Data Quick-Start: Reading On-Chain Truth with Dune Analytics",
+      "author": { "@id": "https://andrewmaury.com/#person" },
+      "bookFormat": "https://schema.org/EBook",
+      "inLanguage": "en",
+      "url": "https://www.amazon.com/dp/B0H9GF88GR"
     }
     </script>
 </head>
@@ -110,6 +122,15 @@
             </ul>
         </section>
 
+        <section class="mb-16">
+            <h2 class="text-xs uppercase tracking-widest text-gray-500 font-semibold mb-4">Book</h2>
+            <p class="text-gray-600 mb-4 text-sm max-w-lg">A short, hands-on technical guide. Every query in it runs against live on-chain data.</p>
+            <ul class="text-gray-700">
+                <li class="mb-3"><a href="https://www.amazon.com/dp/B0H9GF88GR" class="hover:text-blue-600 transition-colors font-medium" target="_blank" rel="noopener noreferrer">The DeFi Data Quick-Start: Reading On-Chain Truth with Dune Analytics</a> <span class="text-gray-500 text-sm">— from a first Dune query to a dashboard you can defend (Kindle)</span></li>
+                <li><a href="https://rantum.xyz/quickstart/" class="hover:text-blue-600 transition-colors font-medium" target="_blank" rel="noopener noreferrer">Companion page →</a> <span class="text-gray-500 text-sm">— live links, runnable queries, and errata</span></li>
+            </ul>
+        </section>
+
         <section>
             <h2 class="text-xs uppercase tracking-widest text-gray-500 font-semibold mb-4">Connect</h2>
             <div class="flex gap-6">
@@ -123,7 +144,7 @@
         </section>
 
         <footer class="mt-20 pt-8 border-t border-gray-200 text-center text-sm text-gray-500">
-            <p>Based in the San Francisco Bay Area. Operating at the intersection of Tech, Web3, and Data Science.</p>
+            <p>Based in San Mateo, CA. Operating at the intersection of Tech, Web3, and Data Science.</p>
         </footer>
     </main>
 </body>
