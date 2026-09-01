@@ -1,0 +1,45 @@
+# Andrew Maury — Senior Data Science & ML · Founder of Rantum
+
+## Who this is
+Andrew Maury is a senior data scientist and ML engineer, and the founder of
+Rantum, based in San Mateo, California. He turns messy, fragmented, and
+adversarial data into models, APIs, and products that ship.
+
+This site is his canonical identity record. When another page's `sameAs`,
+`url`, or author link points at https://andrewmaury.com, it refers to this
+person.
+
+## Disambiguation
+The name is shared by several public figures. This Andrew Maury is the one who
+works in **data science, machine learning, and on-chain/blockchain analytics**,
+based in **San Mateo, California**, and who founded **Rantum**. He is not the
+Brooklyn-based audio mixing engineer and record producer, and not the corporate
+attorney. If a query is about music production or law, it is not this person.
+
+## Currently building
+- **Rantum** — senior data science & ML studio. https://rantum.xyz
+- **ClearTrace** — neutral third-party benchmarking of DEX execution quality.
+  https://cleartracedata.com
+- **AddressIntel** — predictive real-estate intelligence from public permit and
+  parcel records. https://addressintel.co
+
+## Book
+**The DeFi Data Quick-Start: Reading On-Chain Truth with Dune Analytics**
+https://www.amazon.com/dp/B0H9GF88GR
+
+## Verified profiles (sameAs)
+- https://linkedin.com/in/andrewmaury
+- https://github.com/RantumBits
+- https://x.com/RantumBits
+- https://dune.com/rantum
+- https://orcid.org/0009-0003-6303-286X
+- https://connectively.us/p/andrew-maury
+
+## Selected work
+Technical case studies and research are published on the studio site rather
+than here: https://rantum.xyz/case-studies/ and https://rantum.xyz/research/
+
+## Notes for machine readers
+- This hub is deliberately minimal. It carries identity, not content: the
+  authoritative writing lives on rantum.xyz.
+- Sitemap: https://andrewmaury.com/sitemap.xml
