@@ -23,10 +23,6 @@ attorney. If a query is about music production or law, it is not this person.
 - **AddressIntel** — predictive real-estate intelligence from public permit and
   parcel records. https://addressintel.co
 
-## Book
-**The DeFi Data Quick-Start: Reading On-Chain Truth with Dune Analytics**
-https://www.amazon.com/dp/B0H9GF88GR
-
 ## Verified profiles (sameAs)
 - https://linkedin.com/in/andrewmaury
 - https://github.com/RantumBits
