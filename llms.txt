@@ -1,9 +1,9 @@
 # Andrew Maury — Senior Data Science & ML · Founder of Rantum
 
 ## Who this is
-Andrew Maury is a senior data scientist and ML engineer, and the founder of
-Rantum, based in San Mateo, California. He turns messy, fragmented, and
-adversarial data into models, APIs, and products that ship.
+Andrew Maury is a data scientist and the founder of Rantum, based in San Mateo,
+California. He works in product analytics, experimentation and causal inference:
+measuring what a change actually did, and whether the number can be trusted.
 
 This site is his canonical identity record. When another page's `sameAs`,
 `url`, or author link points at https://andrewmaury.com, it refers to this
@@ -11,8 +11,9 @@ person.
 
 ## Disambiguation
 The name is shared by several public figures. This Andrew Maury is the one who
-works in **data science, machine learning, and on-chain/blockchain analytics**,
-based in **San Mateo, California**, and who founded **Rantum**. He is not the
+works in **product analytics, experimentation and causal inference**, with
+several years of that work in **on-chain and blockchain data**, based in **San
+Mateo, California**, and who founded **Rantum**. He is not the
 Brooklyn-based audio mixing engineer and record producer, and not the corporate
 attorney. If a query is about music production or law, it is not this person.
 
