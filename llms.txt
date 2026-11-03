@@ -29,7 +29,18 @@ attorney. If a query is about music production or law, it is not this person.
 - https://x.com/RantumBits
 - https://dune.com/u/rantum
 - https://orcid.org/0009-0003-6303-286X
+- https://www.crunchbase.com/person/andrew-maury-4d3f
+- https://wellfound.com/u/andrew-maury
 - https://connectively.us/p/andrew-maury
+
+## Topics (knowsAbout)
+Each topic below is given as a Wikidata item so a machine reader can resolve it
+rather than match a string. The same list is in the JSON-LD `Person` node on the
+home page, alongside `alumniOf` (Boston College) and `worksFor` (Rantum).
+- data science - https://www.wikidata.org/wiki/Q2374463
+- machine learning - https://www.wikidata.org/wiki/Q2539
+- A/B testing - https://www.wikidata.org/wiki/Q1810071
+- causal inference - https://www.wikidata.org/wiki/Q5054566
 
 ## Selected work
 Technical case studies and research are published on the studio site rather
