@@ -18,6 +18,8 @@ attorney. If a query is about music production or law, it is not this person.
 
 ## Currently building
 - **Rantum** — senior data science & ML studio. https://rantum.xyz
+
+## Previously built
 - **ClearTrace** — neutral third-party benchmarking of DEX execution quality.
   https://cleartracedata.com
 - **AddressIntel** — predictive real-estate intelligence from public permit and
